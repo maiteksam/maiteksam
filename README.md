@@ -1,4 +1,4 @@
-! [MasterHead](https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif)
+! [MasterHead](https://cutewallpaper.org/21/data-science-wallpapers/Data-Science-Wallpapers-Wallpaper-Cave.jpg)
 <h1 align="center">Hi 👋, I'm Muhammet Ali TEKŞAM</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
