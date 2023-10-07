@@ -1,4 +1,4 @@
-! [MasterHead](https://cdn.edi-static.fr/image/upload/c_scale,dpr_auto,f_auto,q_auto,w_auto/c_limit,w_auto/v1/Img/BREVE/2021/4/359474/Pourquoi-professionnels-achats-doivent-devenir-data-scientists-F.jpg)
+! [MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDgU8OWQI-wDDBFfezhrg8n5c-fm7cbwVb9w&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Muhammet Ali TEKŞAM</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
