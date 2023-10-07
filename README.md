@@ -1,4 +1,4 @@
-! [MasterHead](https://cytech.cyu.fr/medias/photo/233242_1615370373523-jpg?ID_FICHE=21860)
+! [MasterHead](https://www.isical.ac.in/~tihisi/Advt/WMLDS/images/deepLearning.gif)
 <h1 align="center">Hi 👋, I'm Muhammet Ali TEKŞAM</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
