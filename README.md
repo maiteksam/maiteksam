@@ -1,4 +1,4 @@
-! [MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDgU8OWQI-wDDBFfezhrg8n5c-fm7cbwVb9w&usqp=CAU)
+[![MasterHead](https://i.makeagif.com/media/7-04-2017/scPref.gif)
 <h1 align="center">Hi 👋, I'm Muhammet Ali TEKŞAM</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
