@@ -1,4 +1,4 @@
-[![MasterHead](https://i.makeagif.com/media/7-04-2017/scPref.gif)
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Muhammet Ali TEKŞAM</h1>
 <h3 align="center">A passionate data scientist from Turkey</h3>
 
