@@ -3,9 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/maiteksam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maiteksam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammet ali tekşam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammet ali tekşam" height="30" width="40" /></a>
-<a href="https://kaggle.com/muhammetalitekam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammetalitekam" height="30" width="40" /></a>
 <a href="https://instagram.com/alitekscham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alitekscham" height="30" width="40" /></a>
 <a href="https://medium.com/@mai.teksam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mai.teksam" height="30" width="40" /></a>
 </p>
